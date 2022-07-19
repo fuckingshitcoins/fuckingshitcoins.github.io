@@ -4,6 +4,10 @@ description: You could've gotten sats, but you forced me to pay in fucking shitc
 # theme: jekyll-swiss
 remote_theme: broccolini/swiss
 
+url: "https://fuckingshitcoins.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: fuckingshitcoins.github.io # the GitHub repo name for your project
+github_username: fuckingshitcoins
+
 # Build settings
 markdown: kramdown
 plugins:
