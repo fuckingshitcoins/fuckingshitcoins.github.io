@@ -1,4 +1,26 @@
 title: Fucking Shitcoins
 logo: /assets/img/logo.png
 description: You could've gotten sats, but you forced me to pay in fucking shitcoins instead.
-theme: jekyll-theme-minimal
+# theme: jekyll-swiss
+remote_theme: broccolini/swiss
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+include: [".well-known"]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
