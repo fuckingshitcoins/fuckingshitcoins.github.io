@@ -4,7 +4,7 @@ image: /assets/images/splash.png
 description: You could've gotten sats but you forced me to pay in fucking shitcoins instead.
 ---
 
-{% include image.html path='assets/images/splash.png' width='100%' %}
+{% include image.html path='/assets/images/splash.png' width='100%' %}
 
 # Received a card?
 
