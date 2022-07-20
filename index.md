@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Fucking Shitcoins
 image: /assets/images/splash.png
 description: You could've gotten sats but you forced me to pay in fucking shitcoins instead.
 ---
