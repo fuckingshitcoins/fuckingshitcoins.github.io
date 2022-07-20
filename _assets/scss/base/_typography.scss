@@ -4,8 +4,8 @@
 body {
   font-family: $font;
   line-height: $base-lineheight;
-  color: $color-lightgrey;
-  background-color: $color-almost-black;
+  color: $color-almost-black;
+  background-color: $color-white;
 }
 
 //----------------------------------------------
@@ -192,7 +192,7 @@ sub {
 }
 
 mark {
-  color: $color-white;
+  color: $color-almost-black;
 }
 
 figcaption {
