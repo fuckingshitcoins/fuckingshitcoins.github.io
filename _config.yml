@@ -1,8 +1,7 @@
 # Site/SEO settings
 email: hi@dergigi.com
-baseurl: ""
+baseurl: "https://fuckingshitcoins.com/"
 permalink: /:title/
-google_analytics:
 
 name: Gigi
 title: Fucking Shitcoins
