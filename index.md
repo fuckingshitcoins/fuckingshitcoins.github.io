@@ -32,11 +32,6 @@ Go ahead! Download one of the PDFs below and print it yourself. The cards are bu
 {% endif %}
 {% endfor %}
 
----
-
 <small>Bonus points if you sign every card with the current [Moscow Time!][mt]</small>
 
 [mt]: https://twitter.com/moscowTimeBot/
-
-
----
