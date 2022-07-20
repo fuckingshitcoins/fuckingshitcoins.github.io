@@ -1,14 +1,29 @@
 ---
-layout: page
-title: Bitcoin Resources
-image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Books, articles, podcasts, and other curated Bitcoin resources.
-redirect_from: resources
+layout: splash
+image: /assets/images/splash.png
+description: You could've gotten sats but you forced me to pay in fucking shitcoins instead.
 ---
 
-**TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
-Case for Bitcoin][bullish-case-book].
+{% include image.html path='assets/images/splash.svg' width='100%' %}
 
-GNAA
+# Received a card?
+
+Well, that sucks. It means that a customer of yours wanted to pay you using the best money humanity ever had, and you refused it. Ooof.
+
+Here is what you can do:
+
+- Learn about the benefits of accepting sats (Near 0% transaction fees, near-instant settlement, no chargebacks)
+- Understand why the money you received is a shitcoin --> https://wtfhappenedin1971.com/
+- Set yourself up to receive sats --> https://bitcoinforlocalbusiness.com/
+- Follow the white rabbit! (bitcoin-resources.com)
+
+
+# Want to shame someone else?
+
+Go ahead! Download one of the PDFs below and print it yourself. The cards are business-card-sized, so it should be easy enough. Also: feel free to translate them, remix them, and make them your own!
+
+- list pdfs
+
+
 
 ---
