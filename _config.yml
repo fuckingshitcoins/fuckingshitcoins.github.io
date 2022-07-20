@@ -1,22 +1,40 @@
-title: Fucking Shitcoins
-logo: /assets/img/logo.png
-description: You could've gotten sats, but you forced me to pay in fucking shitcoins instead.
-# theme: jekyll-swiss
-remote_theme: broccolini/swiss
+# Site/SEO settings
+email: hi@dergigi.com
+baseurl: ""
+permalink: /:title/
+google_analytics:
 
-url: "https://fuckingshitcoins.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: fuckingshitcoins.github.io # the GitHub repo name for your project
-github_username: fuckingshitcoins
+name: Gigi
+title: Bitcoin Resources
+description: >
+  You forced me to pay in fucking shitcoins!
+url: https://fuckingshitcoins.com
+twitter_username: dergigi
+default_img: /assets/images/avatar.png
+social:
+  - name: twitter
+    url: https://twitter.com/FuckingShitcoins
+  - name: github
+    url: https://github.com/fuckingshitcoins/fuckingshitcoins.github.io
+  - name: bitcoin
+    url: https://dergigi.com/support
+
+# Author settings
+author:
+  - name: Gigi
+    bio: Bio as in biological?
+    url: https://dergigi.com/contact
 
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-redirect-from
 compress_html:
   clippings: all
   comments: all
   startings: [html, head, body]
-include: [".well-known"]
 exclude:
   - env
   - scripts

@@ -1,8 +1,14 @@
-# Incredible fucking landing page for an incredible fucking project
+---
+layout: page
+title: Bitcoin Resources
+image: /assets/images/bitcoin-resources-twitter-cover.png
+description: Books, articles, podcasts, and other curated Bitcoin resources.
+redirect_from: resources
+---
 
-Idea: shame merchants into accepting sats
+**TL;DR:** Read [The Bitcoin Standard][bitcoin-standard] and [The Bullish
+Case for Bitcoin][bullish-case-book].
 
-Steps to success:
+GNAA
 
-1. [Download the cards](download.md)
-2. Print them yourself
+---
