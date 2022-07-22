@@ -27,9 +27,22 @@ Here is what you can do:
 
 Go ahead! Download one of the PDFs below and print it yourself. The cards are business-card-sized, so it should be easy enough. Also: feel free to translate them, remix them, and make them your own!
 
-{% for image in site.static_files %}
-{% if image.path contains 'files/pdfs' %}
+{% assign files = site.static_files | reverse %}
+
+{% for image in files %}
+{% if image.path contains 'files/pdfs/en' %}
 - [{{ image.name }}]({{ image.path }})
+{% endif %}
+{% endfor %}
+
+Translations:
+
+{% for image in files %}
+{% if image.path contains 'files/pdfs' %}
+{% if image.path contains 'files/pdfs/en' %}
+{% else %}
+- [{{ image.name }}]({{ image.path }})
+{% endif %}
 {% endif %}
 {% endfor %}
 
