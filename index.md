@@ -33,17 +33,4 @@ Go ahead! Download one of the PDFs below and print it yourself. The cards are bu
 {% endif %}
 {% endfor %}
 
-<small>Bonus points if you sign every card with the current [Moscow Time!][mt]</small>
-
-# Gallery
-
-{% for image in site.static_files %}
-{% if image.path contains 'images/gallery' %}
-![{{ image.name }}]({{ image.path }})
-{% endif %}
-{% endfor %}
-
-Make sure to use [#FuckingShitcoins][hashtag] on twitter to spread the word!
-
-[mt]: https://twitter.com/moscowTimeBot/
-[hashtag]: https://twitter.com/hashtag/FuckingShitcoins
+[View the gallery](/gallery) to see how the cards look like in meatspace.
