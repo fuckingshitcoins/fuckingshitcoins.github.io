@@ -35,7 +35,9 @@ Go ahead! Download one of the PDFs below and print it yourself. The cards are bu
 {% endif %}
 {% endfor %}
 
-Translations:
+### Translations
+
+Not everyone speaks English! To shame effectively, we have to be multilingual.
 
 {% for image in files %}
 {% if image.path contains 'files/pdfs' %}
