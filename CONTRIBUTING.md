@@ -1,26 +1,21 @@
-## Contributing to bitcoin-resources.com
+## Contributing to fuckingshitcoins.com
 
 Hey, thanks for taking the time to contribute! You're awesome! 🎉
 
-The goal of the [bitcoin-resources.com](https://bitcoin-resources.com) project
-is to provide a well curated list of high quality bitcoin-only resources.
+The goal of [fuckingshitcoins.com](https://fuckingshitcoins.com)
+is to shame people into mass-adoption. It's a very serious project.
 
-### Before you start
+### Adding a Translation
 
-* Make yourself familiar with the [existing content](https://bitcoin-resources.com)
-* Join our [Telegram chat group](https://t.me/BitcoinResourcesCom)
-* Have a look at the [existing issues](https://github.com/bitcoin-resources/bitcoin-resources.github.io/issues)
+- Have a look at the [`/files/pdfs/`][pdfs] folder
+- Create your own version, using a tool like [Inkscape]
+- Add your version to the folder via a [pull request][pr]
+- That's it!
 
-### Agreeing on a change
+Feel free to be creative! Fonts are in the [fonts folder][fonts], in case you're
+missing some.
 
-1. [Create an issue](https://github.com/bitcoin-resources/bitcoin-resources.github.io/issues) to describe what you would like to change
-2. Other contributors will approve (`ACK`) or disapprove (`NACK`)
-
-### Implementing a change
-
-1. Clone the repository
-2. Implement the change
-3. [Create a pull-request](https://github.com/bitcoin-resources/bitcoin-resources.github.io/pulls)
-4. Other contributors will review and approve the pull-request
-
-Refer to the [README.md](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/README.md) if you have troubles with getting up and running.
+[pdfs]: https://github.com/fuckingshitcoins/fuckingshitcoins.github.io/tree/master/assets/files/pdfs
+[pr]: https://github.com/fuckingshitcoins/fuckingshitcoins.github.io/pulls
+[Inkscape]: https://inkscape.org/
+[fonts]: https://github.com/fuckingshitcoins/fuckingshitcoins.github.io/tree/master/assets/files/fonts
