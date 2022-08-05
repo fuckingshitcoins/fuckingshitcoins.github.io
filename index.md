@@ -47,3 +47,7 @@ Translations:
 {% endfor %}
 
 [View the gallery](/gallery) to see how the cards look like in meatspace.
+
+Want to contribute? [Here's how!][contrib]
+
+[contrib]: https://github.com/fuckingshitcoins/fuckingshitcoins.github.io/blob/master/CONTRIBUTING.md
