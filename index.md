@@ -13,12 +13,13 @@ Well, that sucks. It means that a customer of yours wanted to pay you using the 
 
 Here is what you can do:
 
-- Learn about the benefits of accepting sats<br/>
+- Learn about [the benefits of accepting sats][business]<br/>
   <small>TLDR: Near 0% transaction fees, near-instant settlement, no chargebacks.</small>
 - [Understand why][wtf] the money you received is a shitcoin
 - [Set yourself up][local] to receive sats
 - [Follow the white rabbit! 🐇][br]
 
+[business]: https://bitcoin.rocks/business
 [wtf]: https://wtfhappenedin1971.com/
 [local]: https://bitcoinforlocalbusiness.com/
 [br]: https://bitcoin-resources.com
